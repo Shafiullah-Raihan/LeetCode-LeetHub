@@ -6,11 +6,13 @@
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0164-maximum-gap/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3660-jump-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3660-jump-game-ix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0788-rotated-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0788-rotated-digits/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3660-jump-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3660-jump-game-ix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
