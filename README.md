@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0164-maximum-gap/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3660-jump-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3660-jump-game-ix/) | Medium |
 ## Dynamic Programming
@@ -43,4 +44,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
