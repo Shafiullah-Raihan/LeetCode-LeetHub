@@ -42,6 +42,7 @@
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
 | [0390-elimination-game](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0390-elimination-game) |
 | [0788-rotated-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0788-rotated-digits/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
 | ------- |
