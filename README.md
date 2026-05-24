@@ -43,6 +43,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
 | [0390-elimination-game](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0390-elimination-game) |
+| [0504-base-7](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0504-base-7) |
 | [0788-rotated-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0788-rotated-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
@@ -117,6 +118,7 @@
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0389-find-the-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0389-find-the-difference) |
+| [0504-base-7](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0504-base-7) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
