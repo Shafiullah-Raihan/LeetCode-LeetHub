@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0164-maximum-gap/) | Medium |
@@ -50,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0164-maximum-gap/) | Medium |
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0389-find-the-difference) |
@@ -135,6 +137,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0016-3sum-closest) |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
 ## Recursion
 |  |
