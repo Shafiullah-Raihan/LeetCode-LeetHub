@@ -16,6 +16,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -61,6 +62,7 @@
 | [1340-jump-game-v](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Bucket Sort
 |  |
@@ -80,6 +82,7 @@
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
