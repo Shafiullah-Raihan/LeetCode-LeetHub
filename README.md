@@ -54,6 +54,7 @@
 | [0504-base-7](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0504-base-7) |
 | [0788-rotated-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0788-rotated-digits/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
@@ -113,11 +114,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0100-same-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0100-same-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
