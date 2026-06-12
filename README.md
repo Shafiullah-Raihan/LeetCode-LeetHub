@@ -25,6 +25,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3660-jump-game-ix/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Dynamic Programming
@@ -34,6 +35,7 @@
 | [0788-rotated-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0788-rotated-digits/) | Medium |
 | [1340-jump-game-v](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1340-jump-game-v) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3660-jump-game-ix/) | Medium |
 ## Matrix
 |  |
@@ -55,6 +57,7 @@
 | [0788-rotated-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0788-rotated-digits/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
@@ -115,12 +118,14 @@
 | [0100-same-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0100-same-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0100-same-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,6 +143,7 @@
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0389-find-the-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## String
 |  |
 | ------- |
