@@ -168,6 +168,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0016-3sum-closest) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -206,4 +207,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
