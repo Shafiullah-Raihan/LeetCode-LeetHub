@@ -36,6 +36,7 @@
 | [0131-palindrome-partitioning](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0788-rotated-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0788-rotated-digits/) | Medium |
 | [1340-jump-game-v](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3660-jump-game-ix/) | Medium |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Math
@@ -154,6 +156,7 @@
 | [0389-find-the-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0520-detect-capital) |
+| [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -199,4 +202,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3691-maximum-total-subarray-value-ii) |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->
