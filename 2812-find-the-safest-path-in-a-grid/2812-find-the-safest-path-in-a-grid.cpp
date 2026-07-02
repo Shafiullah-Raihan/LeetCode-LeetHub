@@ -21,12 +21,10 @@ public:
             while (size-- > 0) {
                 auto curr = multiSourceQueue.front();
                 multiSourceQueue.pop();
-                // Check neighboring cells
                 for (auto& d : dir) {
                     int di = curr.first + d[0];
                     int dj = curr.second + d[1];
                     int val = grid[curr.first][curr.second];
-                    // Check if the neighboring cell is valid and unvisited
                     if (isValidCell(grid, di, dj) && grid[di][dj] == -1) {
                         grid[di][dj] = val + 1;
                         multiSourceQueue.push({di, dj});
