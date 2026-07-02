@@ -27,6 +27,7 @@
 | [2784-check-if-array-is-good](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3660-jump-game-ix/) | Medium |
@@ -48,6 +49,7 @@
 | ------- | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@
 | [0100-same-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0100-same-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1345-jump-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1345-jump-game-iv/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +212,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -218,4 +222,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
