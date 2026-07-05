@@ -1,21 +1,41 @@
 class Solution {
 public:
     int minScore(int n, vector<vector<int>>& roads) {
-        vector<int> root(n + 1);
-        iota(root.begin(), root.end(), 0);
+        vector<vector<pair<int,int>>> adj(n + 1);
 
-        auto find = [&](this auto& self, int i) -> int {
-            return root[i] == i ? i : root[i] = self(root[i]);
-        };
+        for(auto &road : roads){
+            int u = road[0];
+            int v = road[1];
+            int w = road[2];
 
-        for (auto& r : roads)
-            root[find(r[0])] = find(r[1]);
+            adj[u].push_back({v, w});
+            adj[v].push_back({u, w});
+        }
 
-        int res = 10001;
-        for (auto& r : roads)
-            if (find(r[0]) == find(1))
-                res = min(res, r[2]);
+        vector<bool> vis(n + 1, false);
+        queue<int> q;
 
-        return res;
+        q.push(1);
+        vis[1] = true;
+
+        int ans = INT_MAX;
+
+        while(!q.empty()){
+
+            int node = q.front();
+            q.pop();
+
+            for(auto &[nei, wt] : adj[node]){
+
+                ans = min(ans, wt);
+
+                if(!vis[nei]){
+                    vis[nei] = true;
+                    q.push(nei);
+                }
+            }
+        }
+
+        return ans;
     }
 };
