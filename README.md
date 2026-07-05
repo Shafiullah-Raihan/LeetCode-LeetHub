@@ -26,6 +26,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -116,6 +117,7 @@
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -163,6 +165,7 @@
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0389-find-the-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## String
 | Problem Name | Difficulty |
