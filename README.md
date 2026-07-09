@@ -32,6 +32,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3660-jump-game-ix/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -123,6 +124,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +134,7 @@
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +242,7 @@
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,4 +252,5 @@
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
