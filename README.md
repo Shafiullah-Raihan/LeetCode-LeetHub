@@ -276,4 +276,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
