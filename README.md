@@ -36,6 +36,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -80,6 +81,7 @@
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -255,6 +257,7 @@
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,11 +291,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1291-sequential-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
