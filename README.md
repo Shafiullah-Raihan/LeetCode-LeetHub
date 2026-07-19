@@ -134,6 +134,7 @@
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0389-find-the-difference) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -202,6 +203,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0389-find-the-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0389-find-the-difference) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0504-base-7](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0520-detect-capital) |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
@@ -259,6 +261,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Linked List
