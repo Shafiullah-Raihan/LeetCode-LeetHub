@@ -121,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0045-jump-game-ii/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2126-destroying-asteroids) |
@@ -206,6 +207,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0504-base-7](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0520-detect-capital) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -306,4 +308,12 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
