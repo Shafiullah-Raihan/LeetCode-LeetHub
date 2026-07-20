@@ -11,6 +11,7 @@
 | [0164-maximum-gap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0164-maximum-gap/) | Medium |
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
+| [1260-shift-2d-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1340-jump-game-v) |
@@ -59,6 +60,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1260-shift-2d-grid/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -115,6 +117,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1260-shift-2d-grid/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Greedy
