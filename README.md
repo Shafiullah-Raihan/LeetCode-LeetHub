@@ -72,6 +72,7 @@
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
