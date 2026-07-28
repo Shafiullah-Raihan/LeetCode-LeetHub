@@ -237,6 +237,7 @@
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0214-shortest-palindrome](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0214-shortest-palindrome/) | Hard |
 | [0389-find-the-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0389-find-the-difference) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -334,10 +335,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0214-shortest-palindrome](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0214-shortest-palindrome/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0214-shortest-palindrome](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0214-shortest-palindrome/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,4 +381,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
