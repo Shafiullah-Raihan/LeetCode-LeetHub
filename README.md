@@ -96,6 +96,7 @@
 | [0913-cat-and-mouse](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0913-cat-and-mouse/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
@@ -157,6 +158,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -248,6 +250,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
