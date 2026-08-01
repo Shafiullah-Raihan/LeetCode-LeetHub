@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0164-maximum-gap/) | Medium |
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
+| [0486-predict-the-winner](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1260-shift-2d-grid/) | Easy |
@@ -57,6 +58,7 @@
 | [0045-jump-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0045-jump-game-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0788-rotated-digits/) | Medium |
 | [0913-cat-and-mouse](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0913-cat-and-mouse/) | Hard |
 | [1340-jump-game-v](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1340-jump-game-v) |
@@ -90,6 +92,7 @@
 | [0371-sum-of-two-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0390-elimination-game](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0390-elimination-game) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
+| [0486-predict-the-winner](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0486-predict-the-winner/) | Medium |
 | [0504-base-7](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0788-rotated-digits/) | Medium |
@@ -279,6 +282,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0390-elimination-game](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0486-predict-the-winner/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +390,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0486-predict-the-winner/) | Medium |
 | [0913-cat-and-mouse](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0913-cat-and-mouse/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
