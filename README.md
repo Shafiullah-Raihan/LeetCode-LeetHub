@@ -76,6 +76,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3660-jump-game-ix/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -373,6 +375,7 @@
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
