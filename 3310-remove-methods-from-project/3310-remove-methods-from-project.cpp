@@ -2,8 +2,7 @@ constexpr int MAXN = 100005;
 
 class Solution {
 public:
-    vector<int> remainingMethods(int n, int k,
-                                 vector<vector<int>>& invocations) {
+    vector<int> remainingMethods(int n, int k,vector<vector<int>>& invocations) {
         vector<vector<int>> edges(n);
         vector<int> inDegree(n, 0);
 
