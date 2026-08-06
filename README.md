@@ -28,6 +28,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -141,6 +142,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -272,6 +274,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -307,6 +310,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +333,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -427,4 +432,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 <!---LeetCode Topics End-->
