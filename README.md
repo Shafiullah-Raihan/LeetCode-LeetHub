@@ -14,6 +14,7 @@
 | [0486-predict-the-winner](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 | [0877-stone-game](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -91,6 +92,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -213,6 +215,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
+| [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -322,6 +325,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
+| [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 | [1395-count-number-of-teams](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1395-count-number-of-teams/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -333,6 +337,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
+| [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,4 +445,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 <!---LeetCode Topics End-->
