@@ -14,6 +14,7 @@
 | [0486-predict-the-winner](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [0699-falling-squares](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0699-falling-squares/) | Hard |
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 | [0877-stone-game](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1260-shift-2d-grid/) | Easy |
@@ -325,6 +326,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0699-falling-squares/) | Hard |
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 | [1395-count-number-of-teams](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1395-count-number-of-teams/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -337,6 +339,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0699-falling-squares/) | Hard |
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
