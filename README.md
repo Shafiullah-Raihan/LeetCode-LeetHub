@@ -112,6 +112,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -375,6 +376,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
