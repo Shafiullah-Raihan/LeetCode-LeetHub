@@ -75,6 +75,7 @@
 | [1340-jump-game-v](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1340-jump-game-v) |
 | [1395-count-number-of-teams](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1395-count-number-of-teams/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -118,6 +119,7 @@
 | [0913-cat-and-mouse](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0913-cat-and-mouse/) | Hard |
 | [1140-stone-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -444,6 +446,7 @@
 | [0913-cat-and-mouse](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0913-cat-and-mouse/) | Hard |
 | [1140-stone-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,8 +473,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
