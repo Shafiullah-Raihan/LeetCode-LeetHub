@@ -29,6 +29,7 @@
 | [1395-count-number-of-teams](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1395-count-number-of-teams/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -413,6 +414,7 @@
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0913-cat-and-mouse/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -425,6 +427,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -532,4 +535,20 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0005-longest-palindromic-substring) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
