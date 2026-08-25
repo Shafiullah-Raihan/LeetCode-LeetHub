@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0164-maximum-gap/) | Medium |
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
+| [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 | [0486-predict-the-winner](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
@@ -276,6 +277,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0100-same-tree/) | Easy |
+| [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0100-same-tree/) | Easy |
+| [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1345-jump-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1345-jump-game-iv/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -321,6 +324,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0214-shortest-palindrome/) | Hard |
 | [0389-find-the-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0504-base-7](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0504-base-7) |
@@ -426,6 +430,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 | [0913-cat-and-mouse](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0913-cat-and-mouse/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -436,10 +441,12 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -581,4 +588,12 @@
 | ------- |
 | [1390-four-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1952-three-divisors) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
