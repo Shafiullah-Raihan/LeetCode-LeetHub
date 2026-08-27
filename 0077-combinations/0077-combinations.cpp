@@ -11,7 +11,7 @@ public:
         for(int i=idx;i<=n;i++)
         {
             
-                temp.push_back(i);
+            temp.push_back(i);
             
             raihan(n,k,ans,temp,i+1);
             temp.pop_back();
