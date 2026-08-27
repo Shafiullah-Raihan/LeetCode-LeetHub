@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0046-permutations/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0164-maximum-gap/) | Medium |
@@ -358,6 +359,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0046-permutations/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0131-palindrome-partitioning/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
