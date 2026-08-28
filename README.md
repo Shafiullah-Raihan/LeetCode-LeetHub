@@ -152,6 +152,7 @@
 | [1952-three-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2029-stone-game-ix) |
+| [2427-number-of-common-factors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2427-number-of-common-factors) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -498,6 +499,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -510,6 +512,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2427-number-of-common-factors) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -643,4 +646,12 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0332-reconstruct-itinerary) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
