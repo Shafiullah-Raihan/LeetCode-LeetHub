@@ -25,6 +25,7 @@
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 | [0733-flood-fill](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0877-stone-game/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1140-stone-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -250,6 +251,7 @@
 | [0389-find-the-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0389-find-the-difference) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1386-cinema-seat-allocation) |
@@ -451,6 +453,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -552,6 +555,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1748-sum-of-unique-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
