@@ -4,10 +4,10 @@ public:
         int n = nums.size();
         for (int i = 0; i < n; ++i) {
             int maxValue = nums[i], minValue = nums[i];
-            for (int j = 0; j < i; ++j) {
+            for (int j = 0; j <= i; ++j) {
                 maxValue = max(maxValue, nums[j]);
             }
-            for (int j = i + 1; j < n; ++j) {
+            for (int j = i ; j < n; ++j) {
                 minValue = min(minValue, nums[j]);
             }
             if (maxValue - minValue <= k) {
