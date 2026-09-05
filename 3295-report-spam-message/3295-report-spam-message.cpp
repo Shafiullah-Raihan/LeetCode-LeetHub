@@ -10,13 +10,13 @@ public:
         for(auto u:message)
         {
             if(st.count(u)) cnt++;
+             if(cnt>=2)
+             {
+                return true;
+             }
         }
-        if(cnt>=2)
-        {
-            return true;
-        }
-        else{
-            return false;
-        }
+        
+        return false;
+        
     }
 };
