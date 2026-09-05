@@ -88,6 +88,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
