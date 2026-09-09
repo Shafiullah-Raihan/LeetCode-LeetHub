@@ -96,6 +96,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0045-jump-game-ii/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0486-predict-the-winner/) | Medium |
@@ -363,6 +364,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0208-implement-trie-prefix-tree) |
