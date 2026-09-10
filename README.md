@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0046-permutations/) | Medium |
+| [0075-sort-colors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0164-maximum-gap/) | Medium |
@@ -201,6 +202,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0075-sort-colors/) | Medium |
 | [0164-maximum-gap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0164-maximum-gap/) | Medium |
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0332-reconstruct-itinerary) |
@@ -417,6 +419,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0075-sort-colors/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -689,4 +692,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2427-number-of-common-factors) |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
