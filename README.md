@@ -76,6 +76,7 @@
 | [3366-minimum-array-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3366-minimum-array-sum/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -291,6 +292,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3295-report-spam-message](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3295-report-spam-message/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -433,6 +435,7 @@
 | ------- | ------- |
 | [0390-elimination-game](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0486-predict-the-winner/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -542,6 +545,7 @@
 | [2427-number-of-common-factors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
