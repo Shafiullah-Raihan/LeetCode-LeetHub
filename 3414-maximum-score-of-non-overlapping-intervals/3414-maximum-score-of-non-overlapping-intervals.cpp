@@ -1,48 +1,56 @@
 class Solution {
-public:
-    vector<int> maximumWeight(vector<vector<int>>& intervals) {
-        int n = intervals.size();
-        vector<tuple<int, int, int, int>> arr;
-        for (int i = 0; i < n; i++) {
-            int l = intervals[i][0], r = intervals[i][1],
-                weight = intervals[i][2];
-            arr.emplace_back(l, r, weight, i);
+    pair<long long, vector<int>> dfs(int i, int k, const vector<vector<int>>& v, const vector<int> &ind,
+                                      vector<vector<long long>>& dp, vector<vector<vector<int>>> &s) {
+        if (!s[i][k].empty()) return {dp[i][k], s[i][k]};
+        if (i == 0) {
+            dp[0][k] = v[ind[0]][2];
+            s[0][k] = {ind[0]};
+            return {dp[0][k], s[0][k]};
         }
-        // Sort by right endpoint.
-        sort(arr.begin(), arr.end(),
-             [](auto&& a, auto&& b) { return get<1>(a) < get<1>(b); });
-
-        vector<vector<long long>> dp(n + 1, vector<long long>(5));
-        vector<vector<vector<int>>> indices(n + 1, vector<vector<int>>(5));
-        for (int i = 0; i < n; i++) {
-            auto [l, r, weight, idx] = arr[i];
-            // Use binary search to find intervals whose right endpoints are
-            // smaller than l.
-            int k = lower_bound(arr.begin(), arr.begin() + i, l,
-                                [](const tuple<int, int, int, int>& t,
-                                   int val) { return get<1>(t) < val; }) -
-                    arr.begin();
-
-            for (int j = 1; j < 5; j++) {
-                long long s1 = dp[i][j];
-                long long s2 = dp[k][j - 1] + weight;
-                if (s1 > s2) {
-                    dp[i + 1][j] = dp[i][j];
-                    indices[i + 1][j] = indices[i][j];
-                    continue;
+        const auto& p = dfs(i - 1, k, v, ind, dp, s);
+        dp[i][k] = p.first;
+        s[i][k] = p.second;
+        
+        vector<int> mays = {ind[i]};
+        long long mayw = v[ind[i]][2];
+        if (k > 1) {
+            int left = 0, right = i - 1;
+            while (left <= right) {
+                const int mid = (left + right) >> 1;
+                if (v[ind[mid]][1] < v[ind[i]][0]) {
+                    left = mid + 1;
+                } else {
+                    right = mid - 1;
                 }
-
-                vector<int> newIndex = indices[k][j - 1];
-                newIndex.push_back(idx);
-                sort(newIndex.begin(), newIndex.end());
-                if (s1 == s2 && indices[i][j] < newIndex) {
-                    newIndex = indices[i][j];
-                }
-                dp[i + 1][j] = s2;
-                indices[i + 1][j] = newIndex;
+            }
+            const int j = left - 1;
+            if (j >= 0) {
+                const auto& p = dfs(j, k - 1, v, ind, dp, s);
+                mays = p.second;
+                mays.push_back(ind[i]);
+                mayw += p.first;
             }
         }
-
-        return indices[n][4];
+        sort(mays.begin(), mays.end());
+        if (dp[i][k] < mayw || (dp[i][k] == mayw && s[i][k] > mays)) {
+            dp[i][k] = mayw;
+            s[i][k] = mays;
+        }
+        return {dp[i][k], s[i][k]};
+    }
+    
+public:
+    vector<int> maximumWeight(vector<vector<int>>& intervals) {
+        const int n = intervals.size();
+        vector<int> ind(n);
+        for (int i = 0; i < n; ++i) {
+            ind[i] = i;
+        }
+        sort(ind.begin(), ind.end(), [&](const int x, const int y) {
+            return intervals[x][1] < intervals[y][1];
+        });
+        vector<vector<long long>> dp(n, vector<long long>(5));
+        vector<vector<vector<int>>> s(n, vector<vector<int>>(5));
+        return dfs(n - 1, 4, intervals, ind, dp, s).second;
     }
 };
