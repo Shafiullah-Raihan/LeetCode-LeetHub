@@ -116,6 +116,7 @@
 | [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -262,6 +263,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -401,6 +403,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -433,6 +436,7 @@
 | [0016-3sum-closest](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0075-sort-colors/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
