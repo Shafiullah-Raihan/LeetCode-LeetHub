@@ -114,6 +114,7 @@
 | [1395-count-number-of-teams](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1395-count-number-of-teams/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -146,6 +147,7 @@
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1872-stone-game-viii) |
@@ -173,6 +175,7 @@
 | [1390-four-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1872-stone-game-viii) |
 | [1952-three-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -619,6 +622,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Quickselect
 | Problem Name | Difficulty |
