@@ -25,6 +25,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 | [0733-flood-fill](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0835-image-overlap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0877-stone-game/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -317,6 +318,7 @@
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
