@@ -315,6 +315,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0278-first-bad-version/) | Easy |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
@@ -728,4 +729,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0836-rectangle-overlap/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
