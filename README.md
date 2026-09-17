@@ -36,6 +36,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1345-jump-game-iv/) | Hard |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1395-count-number-of-teams/) | Medium |
@@ -139,6 +140,7 @@
 | [0733-flood-fill](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1260-shift-2d-grid/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -323,6 +325,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
