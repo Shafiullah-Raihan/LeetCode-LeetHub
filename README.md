@@ -227,6 +227,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -265,6 +266,7 @@
 | [0045-jump-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0045-jump-game-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2029-stone-game-ix) |
@@ -295,6 +297,7 @@
 | [1345-jump-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
@@ -412,6 +415,7 @@
 | [0520-detect-capital](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0520-detect-capital) |
 | [0940-distinct-subsequences-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
