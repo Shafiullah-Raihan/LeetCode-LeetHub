@@ -260,6 +260,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -432,6 +433,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
