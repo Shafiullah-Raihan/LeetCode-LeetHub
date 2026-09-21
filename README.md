@@ -85,6 +85,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -128,6 +129,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3366-minimum-array-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3366-minimum-array-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3660-jump-game-ix/) | Medium |
@@ -198,6 +200,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
