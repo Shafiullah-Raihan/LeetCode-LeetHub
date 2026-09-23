@@ -44,6 +44,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -156,6 +157,7 @@
 | [1140-stone-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1872-stone-game-viii) |
@@ -305,6 +307,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
@@ -337,6 +340,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -528,6 +532,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1871-jump-game-vii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
