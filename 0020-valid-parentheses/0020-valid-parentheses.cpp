@@ -1,45 +1,28 @@
 class Solution {
 public:
-    bool isBalanced(char u, char v) {
-        if ((u == '(' && v == ')') || (u == '{' && v == '}') ||
-            (u == '[' && v == ']'))
-            return true;
-        else {
-            return false;
-        }
-    }
-
     bool isValid(string s) {
-        bool ok = true;
+
+        unordered_map<char, char> braceMap;
+        braceMap['('] = ')';
+        braceMap['{'] = '}';
+        braceMap['['] = ']';
+
         stack<char> st;
-        for (auto u : s) {
-            if (u == '(' || u == '{' || u == '[') {
-                st.push(u);
-            }
 
-            else {
+        for (char brace : s) {
 
-                if (st.empty()) {
-                    ok = false;
-                    break;
+            if (braceMap.count(brace)) {
+                st.push(brace);
+            } else {
+
+                if (st.empty() || brace != braceMap[st.top()]) {
+                    return false;
                 }
 
-                else {
-
-                    if (isBalanced(st.top(), u))
-
-                    {
-                        st.pop();
-                    } else {
-                        ok = false;
-                    }
-                }
+                st.pop();
             }
         }
 
-        if (!st.empty())
-            ok = false;
-
-        return ok;
+        return st.empty();
     }
 };
