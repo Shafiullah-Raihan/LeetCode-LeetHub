@@ -109,6 +109,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0045-jump-game-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -420,6 +421,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
@@ -624,6 +626,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -782,6 +785,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
