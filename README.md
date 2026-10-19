@@ -57,6 +57,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -257,6 +258,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -374,6 +376,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
