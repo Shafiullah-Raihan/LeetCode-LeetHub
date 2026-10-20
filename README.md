@@ -110,6 +110,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -238,6 +239,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -275,6 +277,7 @@
 | [3731-find-missing-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -657,6 +660,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Number Theory
 | Problem Name | Difficulty |
