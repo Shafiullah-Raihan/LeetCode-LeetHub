@@ -506,6 +506,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
