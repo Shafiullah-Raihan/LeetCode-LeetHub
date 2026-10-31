@@ -103,6 +103,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3660-jump-game-ix/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3665-twisted-mirror-path-count) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -155,6 +156,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3660-jump-game-ix/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3665-twisted-mirror-path-count) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -171,6 +173,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
