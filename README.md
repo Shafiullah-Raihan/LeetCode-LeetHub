@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
@@ -111,6 +111,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3875-construct-uniform-parity-array-i) |
@@ -121,8 +122,8 @@
 | [3904-smallest-stable-index-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0032-longest-valid-parentheses) |
@@ -163,8 +164,8 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0835-image-overlap/) | Medium |
@@ -178,8 +179,8 @@
 | [3665-twisted-mirror-path-count](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1140-stone-game-ii/) | Medium |
@@ -195,8 +196,8 @@
 | [3903-smallest-stable-index-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0390-elimination-game](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0390-elimination-game) |
@@ -245,6 +246,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -255,8 +257,8 @@
 | [3886-sum-of-sortable-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0075-sort-colors/) | Medium |
@@ -293,16 +295,16 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0164-maximum-gap/) | Medium |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0164-maximum-gap/) | Medium |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1260-shift-2d-grid/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -310,8 +312,8 @@
 | [3498-reverse-degree-of-a-string](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0045-jump-game-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -339,8 +341,8 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
@@ -380,8 +382,8 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
@@ -402,8 +404,8 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0100-same-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -412,8 +414,8 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0100-same-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0200-number-of-islands) |
 | [0332-reconstruct-itinerary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0332-reconstruct-itinerary) |
@@ -428,8 +430,8 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0100-same-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -443,15 +445,15 @@
 | [3310-remove-methods-from-project](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0100-same-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0268-missing-number/) | Easy |
@@ -472,8 +474,8 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0022-generate-parentheses) |
@@ -529,8 +531,8 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0046-permutations/) | Medium |
@@ -539,8 +541,8 @@
 | [0301-remove-invalid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0016-3sum-closest) |
@@ -552,35 +554,35 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0390-elimination-game](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0190-reverse-bits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
 | [1395-count-number-of-teams](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1395-count-number-of-teams/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0699-falling-squares/) | Hard |
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
@@ -593,19 +595,19 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0699-falling-squares/) | Hard |
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0332-reconstruct-itinerary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -614,8 +616,8 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -628,13 +630,13 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 | [0913-cat-and-mouse](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0913-cat-and-mouse/) | Hard |
@@ -646,13 +648,13 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -662,18 +664,18 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0214-shortest-palindrome](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0214-shortest-palindrome/) | Hard |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0214-shortest-palindrome](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0214-shortest-palindrome/) | Hard |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1291-sequential-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2427-number-of-common-factors) |
@@ -688,8 +690,8 @@
 | [3886-sum-of-sortable-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1952-three-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2427-number-of-common-factors) |
@@ -701,8 +703,8 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -715,21 +717,21 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0913-cat-and-mouse](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0913-cat-and-mouse/) | Hard |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0913-cat-and-mouse](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0913-cat-and-mouse/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0877-stone-game/) | Medium |
 | [0913-cat-and-mouse](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0913-cat-and-mouse/) | Hard |
@@ -739,8 +741,8 @@
 | [1872-stone-game-viii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2029-stone-game-ix) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1748-sum-of-unique-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2029-stone-game-ix) |
@@ -749,125 +751,125 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0214-shortest-palindrome/) | Hard |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [0731-my-calendar-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0731-my-calendar-ii/) | Medium |
 ## Minimax
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2029-stone-game-ix) |
 ## Nim Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1510-stone-game-iv/) | Hard |
 ## Manacher
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0005-longest-palindromic-substring) |
 ## Minimum Spanning Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
 ## Prim's Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
 ## Kruskal's Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
 ## Borůvka's Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
 ## Prime Factorization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1390-four-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1952-three-divisors) |
 ## Sieve Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1390-four-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1952-three-divisors) |
 ## Bellman–Ford Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 ## Floyd–Warshall Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 ## Eulerian Circuit
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0332-reconstruct-itinerary) |
 ## Eulerian Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0332-reconstruct-itinerary) |
 ## Semi-Eulerian Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0332-reconstruct-itinerary) |
 ## Euclidean Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2427-number-of-common-factors) |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0075-sort-colors/) | Medium |
 ## Bubble Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0075-sort-colors/) | Medium |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0278-first-bad-version/) | Easy |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0032-longest-valid-parentheses) |
@@ -881,11 +883,11 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Fermat's Little Theorem
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
