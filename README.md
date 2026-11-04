@@ -95,6 +95,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -155,6 +156,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3366-minimum-array-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3366-minimum-array-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -233,6 +235,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -376,6 +379,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3295-report-spam-message](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3295-report-spam-message/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -614,6 +618,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -629,6 +634,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
