@@ -34,6 +34,7 @@
 | [1140-stone-game-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1340-jump-game-v) |
@@ -175,6 +176,7 @@
 | [0733-flood-fill](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -433,6 +435,7 @@
 | [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -449,6 +452,7 @@
 | [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1345-jump-game-iv](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1345-jump-game-iv/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -673,6 +677,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0399-evaluate-division) |
+| [1267-count-servers-that-communicate](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -760,6 +765,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
