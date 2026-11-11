@@ -261,6 +261,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3875-construct-uniform-parity-array-i) |
@@ -354,6 +355,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
