@@ -97,6 +97,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3295-report-spam-message](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3295-report-spam-message/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3366-minimum-array-sum/) | Medium |
@@ -408,6 +409,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3295-report-spam-message](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3295-report-spam-message/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -445,6 +447,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -461,6 +464,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -559,6 +563,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3295-report-spam-message](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3295-report-spam-message/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3498-reverse-degree-of-a-string/) | Easy |
