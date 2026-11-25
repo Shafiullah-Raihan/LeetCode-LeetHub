@@ -134,6 +134,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -417,6 +418,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3731-find-missing-elements/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +442,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -725,11 +728,13 @@
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0214-shortest-palindrome](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0214-shortest-palindrome/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0214-shortest-palindrome](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/0214-shortest-palindrome/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -958,4 +963,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
