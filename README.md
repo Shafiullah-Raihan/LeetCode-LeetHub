@@ -135,6 +135,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 |  |
@@ -183,6 +184,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -376,6 +378,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shafiullah-Raihan/LeetCode-LeetHub/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
